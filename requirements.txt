@@ -1,0 +1,16 @@
+# Core Deep Learning & Diffusion Frameworks
+torch>=2.1.0
+torchvision>=0.16.0
+diffusers>=0.30.0
+transformers>=4.40.0
+accelerate>=0.30.0
+safetensors>=0.4.0
+
+# UI & Visualization
+gradio>=4.20.0
+matplotlib>=3.8.0
+pillow>=10.0.0
+
+# Utilities
+huggingface-hub>=0.23.0
+python-dotenv>=1.0.0
